@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel,
 
-I’m a **junior software enginneer** focused on **Artificial Intelligence** with a strong interest in research and long-term academic work in **Computational Neuroscience**. My background is somewhat unconventional: I explored multiple fields such languages before committing fully to computer science and AI.
+I’m a **junior software enginneer** focused on **Artificial Intelligence** with a strong interest in research and long-term academic work in **Computational Neuroscience**. My background is somewhat unconventional: I explored multiple fields such as languages before committing fully to computer science and AI.
 
 Feel free to contact me: kayivon@gmail.com
 
